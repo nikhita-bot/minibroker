@@ -1,4 +1,6 @@
 # Minibroker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fminibroker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fminibroker?ref=badge_shield)
+
 
 > A minibroker for your minikube!
 
@@ -243,3 +245,7 @@ actively changing dependencies, you don't need to do anything extra.
        or version range, otherwise the lock will keep us on the same version and track what's used.
 2. Run `dep ensure`.
 3. Check in the changes to `Gopkg.lock` and `vendor/`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fminibroker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fminibroker?ref=badge_large)
